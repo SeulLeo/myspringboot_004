@@ -1,0 +1,50 @@
+{
+  "groups": [{
+    "name": "wq.person",
+    "type": "com.zk.myspringboot_004.Person",
+    "sourceType": "com.zk.myspringboot_004.Person"
+  }],
+  "properties": [
+    {
+      "name": "wq.person.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.zk.myspringboot_004.Person"
+    },
+    {
+      "name": "wq.person.birth",
+      "type": "java.util.Date",
+      "sourceType": "com.zk.myspringboot_004.Person"
+    },
+    {
+      "name": "wq.person.boss",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.zk.myspringboot_004.Person"
+    },
+    {
+      "name": "wq.person.dog",
+      "type": "com.zk.myspringboot_004.Dog",
+      "sourceType": "com.zk.myspringboot_004.Person"
+    },
+    {
+      "name": "wq.person.email",
+      "type": "java.lang.String",
+      "sourceType": "com.zk.myspringboot_004.Person"
+    },
+    {
+      "name": "wq.person.last-name",
+      "type": "java.lang.String",
+      "sourceType": "com.zk.myspringboot_004.Person"
+    },
+    {
+      "name": "wq.person.list",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "com.zk.myspringboot_004.Person"
+    },
+    {
+      "name": "wq.person.maps",
+      "type": "java.util.Map<java.lang.String,java.lang.String>",
+      "sourceType": "com.zk.myspringboot_004.Person"
+    }
+  ],
+  "hints": []
+}

@@ -1,0 +1,12 @@
+wq:
+  person:
+    lastName: zk
+    age: 25
+    boss: true
+    birth: 2020/3/5
+    maps: {key1: value1,key2: value2}
+    list: [dog,cat,house]
+    dog:
+      name: 旺财
+      age: 3
+    email: 359269746@qq.com
